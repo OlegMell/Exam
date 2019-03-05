@@ -1,0 +1,33 @@
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Server App\bin\Debug\Server App.exe.config
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Server App\bin\Debug\Server App.exe
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Server App\bin\Debug\Server App.pdb
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.csprojAssemblyReference.cache
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.csproj.CoreCompileInputs.cache
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.exe
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\bin\Debug\Server App.exe.config
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\bin\Debug\Server App.exe
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\bin\Debug\Server App.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\bin\Debug\LibChat.dll
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\bin\Debug\LibChat.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.csprojAssemblyReference.cache
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.csproj.CoreCompileInputs.cache
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.csproj.CopyComplete
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.exe
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.pdb
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\bin\Debug\Server App.exe.config
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\bin\Debug\Server App.exe
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\bin\Debug\Server App.pdb
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\bin\Debug\LibChat.dll
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\bin\Debug\LibChat.pdb
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.csproj.CopyComplete
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.exe
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Server App\obj\Debug\Server App.pdb

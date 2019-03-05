@@ -1,0 +1,31 @@
+﻿<Window x:Class="Client_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Client_App"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="900">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="56"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="Search" Grid.Column="0" FontSize="15" VerticalAlignment="Top" materialDesign:HintAssist.Hint="Search" Background="LightGray" FontFamily="Arial" FontWeight="DemiBold" Padding="2" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Height="58" Margin="0,-12,0,0"/>
+        <ScrollViewer CanContentScroll="True" VerticalScrollBarVisibility="Auto" Grid.RowSpan="2" Margin="0,46,0,0">
+            <StackPanel x:Name="ClientPanel" Grid.Column="0" CanVerticallyScroll="True" />
+        </ScrollViewer>
+        <StackPanel x:Name="MessagesPanel" Grid.Column="1"/>
+        <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="1">
+            <TextBox x:Name="TextMessage" FontSize="15" Width="600"/>
+            <Button x:Name="SendMessage" Click="SendMessage_Click" Background="#FF3F4562" Margin="20,0,0,0">
+                <materialDesign:PackIcon Kind="Send"/>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,18 @@
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\LibChat\bin\Debug\LibChat.dll
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\LibChat\bin\Debug\LibChat.pdb
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\LibChat\obj\Debug\LibChat.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\LibChat\obj\Debug\LibChat.dll
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\LibChat\obj\Debug\LibChat.pdb
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\LibChat\bin\Debug\LibChat.dll
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\LibChat\bin\Debug\LibChat.pdb
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\LibChat\obj\Debug\LibChat.csprojAssemblyReference.cache
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\LibChat\obj\Debug\LibChat.csproj.CoreCompileInputs.cache
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\LibChat\obj\Debug\LibChat.dll
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\LibChat\obj\Debug\LibChat.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\LibChat\bin\Debug\LibChat.dll
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\LibChat\bin\Debug\LibChat.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\LibChat\obj\Debug\LibChat.csprojAssemblyReference.cache
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\LibChat\obj\Debug\LibChat.csproj.CoreCompileInputs.cache
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\LibChat\obj\Debug\LibChat.dll
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\LibChat\obj\Debug\LibChat.pdb
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\LibChat\obj\Debug\LibChat.csprojAssemblyReference.cache

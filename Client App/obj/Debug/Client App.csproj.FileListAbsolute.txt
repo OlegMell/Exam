@@ -1,0 +1,96 @@
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.csprojAssemblyReference.cache
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\User Controls\ClientBox.baml
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Windows\SignUp.baml
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\MainWindow.g.cs
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\User Controls\ClientBox.g.cs
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Windows\SignUp.g.cs
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\App.g.cs
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App_MarkupCompile.cache
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App_MarkupCompile.lref
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Client App.exe.config
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Client App.exe
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Client App.pdb
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\LibChat.dll
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\MaterialDesignColors.dll
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\LibChat.pdb
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\App.baml
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\MainWindow.baml
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.g.resources
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client_App.Properties.Resources.resources
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.csproj.GenerateResource.cache
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.csproj.CoreCompileInputs.cache
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.csproj.CopyComplete
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.exe
+C:\Users\neoni\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\Client App.exe.config
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\Client App.exe
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\Client App.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\LibChat.dll
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\MaterialDesignColors.dll
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\LibChat.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.csprojAssemblyReference.cache
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\User Controls\ClientBox.baml
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\Windows\SignUp.baml
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\MainWindow.g.cs
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\User Controls\ClientBox.g.cs
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\Windows\SignUp.g.cs
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\App.g.cs
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App_MarkupCompile.cache
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App_MarkupCompile.lref
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\App.baml
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\MainWindow.baml
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.g.resources
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\Client_App.Properties.Resources.resources
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.csproj.GenerateResource.cache
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.csproj.CoreCompileInputs.cache
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.csproj.CopyComplete
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.exe
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.pdb
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Client App.exe.config
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Client App.exe
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Client App.pdb
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\LibChat.dll
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\MaterialDesignColors.dll
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\LibChat.pdb
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\User Controls\ClientBox.baml
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Windows\SignUp.baml
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\User Controls\ClientBox.g.cs
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Windows\SignUp.g.cs
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App_MarkupCompile.cache
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App_MarkupCompile.lref
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\App.baml
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.g.resources
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client_App.Properties.Resources.resources
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.csproj.CopyComplete
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.exe
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\obj\Debug\Client App.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\Server App.exe
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\Server App.pdb
+C:\Users\olegm\OneDrive\Рабочий стол\Exam Chat Tcp_Ip\Client App\bin\Debug\Server App.exe.config
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Server App.exe
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Server App.pdb
+C:\Users\student\Desktop\Exam Chat Tcp_Ip\Client App\bin\Debug\Server App.exe.config
